@@ -15,5 +15,3 @@
 > + jsonp
 > + Vuex
 > + transition
-> + vconsole
-> + Charles
